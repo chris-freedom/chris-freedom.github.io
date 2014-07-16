@@ -1,0 +1,11 @@
+{
+    "name": "Bet Helper",
+    "dependencies": {
+        "bootstrap-sass-twbs": "*",
+        "backbone-amd": "*",
+        "underscore-amd": "*",
+        "handlebars": "latest",
+        "requirejs": "latest",
+        "requirejs-text": "latest"
+    }
+}
